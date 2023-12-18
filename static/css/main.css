@@ -1,0 +1,56 @@
+body{
+text-align: center;
+margins: 0;
+font-family: sans-serif;
+}
+
+.content {
+    margin: 0 auto;
+    width: 400px;
+}
+
+#content{
+    width: 70%;
+}
+
+.form{
+    margin-top: 20px;
+}
+
+table {
+    border-collapse: collapse; /*This makes the boarder look cleaner and fit together*/
+    width: 100%;
+}
+
+h1{
+text-align: center;
+}
+
+
+th{
+text-align: center;
+height: 30px;
+padding: 3px;
+border: 5px inset black;
+font-weight: bold;
+}
+
+
+
+/*
+td::before{
+content: "";
+}
+
+td::after{
+content: "";
+}
+I was just trying these out no need to worry lol
+*/
+
+td{
+text-align: center;
+padding: 5px;
+border: 2px solid black;
+}
+
